@@ -8,7 +8,7 @@ Django==3.0.5
 django-cors-headers==3.3.0
 django-enumfield==2.0.1
 django-environ==0.4.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 environ==1.0
 filelock==3.0.12
 Flask==1.1.2
